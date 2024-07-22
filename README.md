@@ -12,8 +12,10 @@ Backend (API) Testing
 
 ## Architecture
 The two-tier is based on Client Server architecture. The two-tier architecture is like client server application. The direct communication takes place between client and server. There is no intermediate between client and server. Because of tight coupling a 2 tiered application will run faster.
+When using an application to access the DBMS, the Two-tier DBMS Architecture is used. Through the use of API calls, client-side applications can connect directly to the database server, separating the application from the Database in terms of functionality, programming, and design.
 
-<img width="358" alt="image" src="https://github.com/user-attachments/assets/9d52000a-2846-45b2-85ad-8f424c9d68b9">
+<img width="527" alt="image" src="https://github.com/user-attachments/assets/e30bf7dc-96b6-4ba9-8859-d43846a4fea4">
+
 
 ## Directory Structure
 Constructweekproject1/ ├─apicypressproject /├─ Cypress/ ├─ Integration/ ├─ Test/ ├─ Cryptocurrencywallet/
