@@ -44,15 +44,10 @@ npx cypress open
  ##Screenshots
 
  ![Screenshot 2024-07-22 064718](https://github.com/user-attachments/assets/aff74a24-99f2-49be-aa3b-8f21cfb77c22)
-
- <img width="649" alt="image" src="https://github.com/user-attachments/assets/7e176042-de4b-4b41-a173-3cc68874e73d">
-
- 
  <img width="447" alt="image" src="https://github.com/user-attachments/assets/efc93a7c-e301-4c75-8af2-03861c85b18a">
- 
- <img width="230" alt="image" src="https://github.com/user-attachments/assets/6c0f9670-b8b4-46e4-97af-75d33afa9ceb">
- 
+ <img width="649" alt="image" src="https://github.com/user-attachments/assets/7e176042-de4b-4b41-a173-3cc68874e73d">
  <img width="197" alt="image" src="https://github.com/user-attachments/assets/5818f538-65e1-4f3e-8d28-4777414c957f">
+ <img width="230" alt="image" src="https://github.com/user-attachments/assets/6c0f9670-b8b4-46e4-97af-75d33afa9ceb">
 
 
 
