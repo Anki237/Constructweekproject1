@@ -3,13 +3,16 @@
 ![Screenshot 2024-07-22 054055](https://github.com/user-attachments/assets/4632d32c-79dc-4d01-b109-b02564c66868)
 
 ## Introduction
-Designing a complete JSON REST API for a crypto wallet is a comprehensive task that requires careful consideration of various functionalities and security measures. Here, we are providing you with an overview of the API endpoints and payloads for some essential operations. Keep in mind that this is a basic outline, and you may need to expand and customize it based on your specific requirements and security considerations.
+Designing a complete JSON REST API for a crypto wallet is a comprehensive task that requires careful consideration of various functionalities and security measures. Here, app are providing us with an overview of the API endpoints and payloads for some essential operations.
 
-Unlock the potential of Cryptocurrency Wallet use-cases with this sample API Design. Start with this prototype and effortlessly expand to tackle more advanced scenarios. Beeceptor empowers you to not only create prototypes but also to build and innovate further. Your imagination sets the limit – get started with Beeceptor today! .col-xs-4.col-md-2.text-center
+Here we going to validate the response code and response body of the respose we received after sending the request to the server.
 
 ## Project Type
 Backend (API) Testing
 
+## Architecture
+The two-tier is based on Client Server architecture. The two-tier architecture is like client server application. The direct communication takes place between client and server. There is no intermediate between client and server. Because of tight coupling a 2 tiered application will run faster.
+<img width="358" alt="image" src="https://github.com/user-attachments/assets/9d52000a-2846-45b2-85ad-8f424c9d68b9">
 
 ## Directory Structure
 Constructweekproject1/ ├─ e2e/ ├─ apicypressproject/ ├─ Test/ ├─ Cryptocurrencywallet/
