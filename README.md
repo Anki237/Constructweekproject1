@@ -1,0 +1,122 @@
+# Cryptocurrency Wallet
+
+![Screenshot 2024-07-22 054055](https://github.com/user-attachments/assets/4632d32c-79dc-4d01-b109-b02564c66868)
+
+## Introduction
+Designing a complete JSON REST API for a crypto wallet is a comprehensive task that requires careful consideration of various functionalities and security measures. Here, app are providing us with an overview of the API endpoints and payloads for some essential operations.
+
+Here we going to validate the response code and response body of the respose we received after sending the request to the server.
+
+## Project Type
+Backend (API) Testing
+
+## Architecture
+The two-tier is based on Client Server architecture. The two-tier architecture is like client server application. The direct communication takes place between client and server. There is no intermediate between client and server. Because of tight coupling a 2 tiered application will run faster.
+
+<img width="358" alt="image" src="https://github.com/user-attachments/assets/9d52000a-2846-45b2-85ad-8f424c9d68b9">
+
+## Directory Structure
+Constructweekproject1/ ├─ restassured/ ├─ src/ ├─ test/├─ java/ ├─ Cryptocurrencywallet/
+
+## Features
+Operations performed in the API.
+
+- POST Method
+- GET Method
+
+## Prerequisites
+Install Java Development Kit (JDK)
+
+Install an Integrated Development Environment (IDE)
+
+Install Apache Maven
+
+## Project Setup
+Create a Maven project
+
+Add Dependencies in pom.xml
+
+Setup RestAssured
+
+## Usage
+Create a folder. Open a command prompt navigate to your folder. Paste this command(You have to install git first)
+
+git clone https://github.com/Anki237/Constructweekproject1.git
+
+It will download this project 
+and run as TestNG Test
+
+ ## Screenshots
+
+ ![Screenshot 2024-07-22 064718](https://github.com/user-attachments/assets/aff74a24-99f2-49be-aa3b-8f21cfb77c22)
+ <img width="447" alt="image" src="https://github.com/user-attachments/assets/efc93a7c-e301-4c75-8af2-03861c85b18a">
+ <img width="649" alt="image" src="https://github.com/user-attachments/assets/7e176042-de4b-4b41-a173-3cc68874e73d">
+ <img width="197" alt="image" src="https://github.com/user-attachments/assets/5818f538-65e1-4f3e-8d28-4777414c957f">
+ ![Screenshot 2024-07-22 072536](https://github.com/user-attachments/assets/3eeccf8a-d8a9-4ea3-a03b-a189dc381688)
+
+ 
+ 
+
+
+
+
+
+## Credentials
+Opensource free tool so no credentials required.
+
+## Links to GET API
+https://app.beeceptor.com/mock-server/crypto-wallet-server
+
+
+## API Base URL
+https://crypto-wallet-server.mock.beeceptor.com
+
+
+## API Endpoints
+
+POST /api/v1/register - Register a user, and create his/her wallet
+
+POST /api/v1/login - Login the user and generate a session token
+
+GET /api/v1/balance - Retrieve the wallet balance
+
+GET /api/v1/transactions - List all the transactions done by the user
+
+POST /api/v1/transactions - Transfer 5 ETH to a recipient
+
+POST /api/v1/transaction_fee - Calculate transaction fees and return estimated cost
+
+GET /api/v1/exchange_rates - Get an object with all available currency exchange rates
+
+## Technology Stack
+Java
+
+Selenium WebDriver
+
+Maven
+
+TestNG
+
+## Version Control and Testing tools used:
+
+Git
+
+GitHub
+
+Selenium
+
+SpringTool
+
+## Operating System and browsers used:
+
+Windows
+
+Edge
+
+Firefox
+
+## Feedback
+
+For any feedback, please reach out to me at ankitaverma14sept@gmail.com
+
+
