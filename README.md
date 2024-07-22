@@ -16,7 +16,7 @@ The two-tier is based on Client Server architecture. The two-tier architecture i
 <img width="358" alt="image" src="https://github.com/user-attachments/assets/9d52000a-2846-45b2-85ad-8f424c9d68b9">
 
 ## Directory Structure
-Constructweekproject1/ ├─apicypressproject / ├─ Integration/ ├─ Test/ ├─ Cryptocurrencywallet/
+Constructweekproject1/ ├─apicypressproject /├─ Cypress/ ├─ Integration/ ├─ Test/ ├─ Cryptocurrencywallet/
 
 ## Features
 Operations performed in the API.
